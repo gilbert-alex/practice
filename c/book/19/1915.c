@@ -1,0 +1,11 @@
+// use caution when doing this!!!
+
+#include <stdio.h>
+
+int main()
+{
+    const char *sample = "From whence cometh my help?\n";
+
+    puts(sample);
+    return(0);
+}
